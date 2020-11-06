@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(211, 218, 222);
+    text-align: justify;
+    font-family: sans-serif;
+    
+}
+
+h1 {
+    font-size: 250%;
+    text-align: center;
+    color: #333333;
+}
+
+h2 {
+    font-size: 200%;
+    text-decoration: underline;
+    background-color: rgb(134, 154, 163) ;
+    color:rgb(72, 81, 85) ;
+}
+
+h3 {
+    font-style: italic;
+    font-size: 130%;
+    background-color:rgb(154, 176, 187) ;
+    color: rgb(83, 93, 99);
+}
+
+p {
+    background-color: rgb(181, 194, 200);
+    font-size: 16px;
+}
+
+span {
+    color: rgb(3, 125, 187);
+}
+
+strong {
+    color: rgb(2, 139, 207);
+}
