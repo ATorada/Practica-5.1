@@ -37,3 +37,9 @@ span {
 strong {
     color: rgb(2, 139, 207);
 }
+
+address {
+    font-weight: bold;
+    text-align: right;
+    background-color: white;
+}
